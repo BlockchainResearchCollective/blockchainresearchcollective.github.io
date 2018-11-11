@@ -1,7 +1,8 @@
-# Blockchain Reading Group
+# Blockchain Research Collective
 
-This is the static site for the Blockchain Reading Group at the National University of Singapore from 5th April 2018 till 28th Jun 2018. The group is organized by Prateek Saxena.
+Static site to host details and timeline.
 
 ## Enquiries
-
-For any enquiries please contact dan at dan [at] comp.nus.edu.sg. 
+TODO: details on this
+1. Discuss on the Community page
+1. Contact us
